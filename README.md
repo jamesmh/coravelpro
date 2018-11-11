@@ -14,7 +14,7 @@ This repo is where you can file issues and view the roadmap for Coravel Pro.
 
 You may view the [official documentation here](https://www.docs.pro.coravel.net/Installation/).
 
-You may visit the [official web site](https://www.pro.coravel.net) for more details / pricing.
+You may visit the [official web site](https://www.pro.coravel.net) for more details / licensing.
 
 ## Features / Screenshots
 
