@@ -4,7 +4,7 @@
 
 A professional suite of admin tools for your .NET Core apps!
 
-Coravel Pro integrates seamlessly into your app to give you a near-zero config admin backend! Ditch the database IDE to manage your important backend tasks and finally focus on building your app!
+Coravel Pro integrates seamlessly into your .NET Core app to give you a near-zero config admin backend. Ditch the database IDE and manage your important backend tasks with ease.
 
 ## Repo Purpose
 
