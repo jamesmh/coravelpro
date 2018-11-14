@@ -20,6 +20,12 @@ You may visit the [official web site](https://www.pro.coravel.net) for more deta
 
 Here are some screenshots to peek your interest 😉
 
+### Database Persisted Job Scheduling
+
+Schedule your jobs using a beautiful and intuitive user interface. No need to worry about your development schedules bleeding into your production schedules! "What happens in prod stays in prod." 🐱‍👤
+
+![jobs](./img/schedule.png)
+
 ### Metrics Dashboard
 
 These are custom metrics that you configure using any data you want - really. Hook into your EF Core data or an external API if needed! Just pass your data to Coravel Pro and it'll handle making everything look pretty 👌
@@ -37,12 +43,6 @@ Manage important admin tasks like database re-indexing, sending out automated e-
 View a history of all successful and failed jobs. Drilldown into failed job errors. 🔥
 
 ![recent jobs](./img/recent-jobs.png)
-
-### Database Persisted Job Scheduling
-
-Schedule your jobs using a beautiful and intuitive user interface. No need to worry about your development schedules bleeding into your production schedules! "What happens in prod stays in prod." 🐱‍👤
-
-![jobs](./img/schedule.png)
 
 
 
