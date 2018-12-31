@@ -16,7 +16,10 @@ Yes, it's not free. Why?
 
 It's not enough to open source it and "expect" donations. This isn't a hobby project. This is a legitimate product and is tough work.
 
-This means (a) I will maintain it and (b) it will be production quality and (c) issues will be dealt with.
+This means:
+- I will maintain it
+- It will be production quality
+- Issues will be dealt with
 
 [Coravel](https://github.com/jamesmh/coravel) is open source and always will be.
 
