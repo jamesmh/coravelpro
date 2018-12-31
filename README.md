@@ -27,13 +27,15 @@ This means:
 
 This repo is where you can file issues and view the roadmap for Coravel Pro.
 
-## Official Sites / Documentation
+## Documentation
 
 You may view the [official documentation here](https://www.docs.pro.coravel.net/Installation/).
 
-You may visit the [official web site](https://www.pro.coravel.net) for more details / licensing.
+## Official Site 
 
-## Features / Screenshots
+You may visit the [official web site](https://www.pro.coravel.net) for more details about features and licensing.
+
+## Screenshots
 
 Here are some screenshots to peek your interest 😉
 
