@@ -4,7 +4,21 @@
 
 A professional admin panel for .NET Core apps!
 
-Coravel Pro integrates seamlessly into your .NET Core app to give you a near-zero config admin backend. Ditch the database IDE and manage your important backend tasks with ease.
+Coravel Pro integrates seamlessly into your .NET Core app to give you a near-zero config admin backend. Ditch the database IDE and manage your important backend tasks and data with ease.
+
+# Licensing
+
+For non-commercial scenarios (side-projects, startups with no revenue, etc.) it's free to use - try it now!
+
+Otherwise, if you are using Coravel Pro in a business or as a solo developer making revenue please [**purchase a license.**](https://www.pro.coravel.net/pricing.html)
+
+Yes, it's not free. Why? 
+
+It's not enough to open source it and "expect" donations. This isn't a hobby project. This is a legitimate product and is tough work.
+
+This means (a) I will maintain it and (b) it will be production quality and (c) issues will be dealt with.
+
+[Coravel](https://github.com/jamesmh/coravel) is open source and always will be.
 
 ## Repo Purpose
 
@@ -15,18 +29,6 @@ This repo is where you can file issues and view the roadmap for Coravel Pro.
 You may view the [official documentation here](https://www.docs.pro.coravel.net/Installation/).
 
 You may visit the [official web site](https://www.pro.coravel.net) for more details / licensing.
-
-# Licenses
-
-For non-commercial scenarios (side-projects, startups with no revenue, etc.) it's free to use - try it now!
-
-For commercial scenarios, there are various licenses available for purchase.
-
-Yes, it's not free. Why? It's not enough to open source it and "expect" donations. This isn't a hobby project. This is a legitimate product and is tough work.
-
-This means (a) I will maintain it and (b) it will be production quality and (c) issues will be dealt with.
-
-[Coravel](https://github.com/jamesmh/coravel) is open source and always will be.
 
 ## Features / Screenshots
 
