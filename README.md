@@ -10,7 +10,7 @@ Coravel Pro integrates seamlessly into your .NET Core app to give you a near-zer
 
 For non-commercial scenarios (side-projects, startups with no revenue, etc.) it's free to use - try it now!
 
-Otherwise, if you are using Coravel Pro in a business or as a solo developer making revenue please [**purchase a license.**](https://www.pro.coravel.net/pricing.html)
+Otherwise, if you are using Coravel Pro in a business or as a solo developer making revenue please [**purchase a license.**](https://www.pro.coravel.net/pricing?f=gh)
 
 Yes, it's not free. Why? 
 
