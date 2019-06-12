@@ -12,20 +12,9 @@ For non-commercial scenarios (side-projects, startups with no revenue, etc.) it'
 
 Otherwise, if you are using Coravel Pro in a business or as a solo developer making revenue please [**purchase a license.**](https://www.pro.coravel.net/pricing?f=gh)
 
-Yes, it's not free. Why? 
-
-It's not enough to open source it and "expect" donations. This isn't a hobby project. This is a legitimate product and is tough work.
-
-This means:
-- I will maintain it
-- It will be production quality
-- Issues will be dealt with
-
-[Coravel](https://github.com/jamesmh/coravel) is open source and always will be.
-
 ## Repo Purpose
 
-This repo is where you can file issues and view the roadmap for Coravel Pro.
+This repo is where you can file issues / ask questions.
 
 ## Documentation
 
